@@ -86,6 +86,6 @@ An illustration of the VLA4AD paradigm, contrasting conventional end-to-end auto
 ## ⚙️ Installation & Usage
 
 ```bash
-git clone https://github.com/YourOrg/Awesome-VLA-for-Autonomous-Driving.git
-cd Awesome-VLA-for-Autonomous-Driving
+git clone https://github.com/JohnsonJiang1996/Awesome-VLA4AD.git
+cd Awesome-VLA4AD
 # Browse papers, datasets & code samples in each folder
