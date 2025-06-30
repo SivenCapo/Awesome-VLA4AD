@@ -21,7 +21,7 @@ Recent advances have moved us from classic end-to-end driving pipelines toward i
 
 An illustration of the VLA4AD paradigm, contrasting conventional end-to-end autonomous driving, vision-language models for AD, and full Vision–Language–Action systems:
 
-![Overview of VLA4AD](./figs/Overview_VLA4AD.png)  
+![Overview of VLA4AD](./figs/Overview_VLA4AD_New.png)  
 *Figure 1. Overview of Vision–Language–Action (VLA4AD) models for autonomous driving.*  
 
 A snapshot of the field’s evolution through four successive stages—from VLM-as-explainer to augmented, reasoning-centric agents:
