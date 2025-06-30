@@ -8,6 +8,21 @@ Welcome to **Awesome VLA4AD**—a curated, continuously updated collection of re
 
 ---
 
+## 📚 Table of Contents
+- [🔥 Motivation & Paradigm Shift](#-overview-of-vla4ad)  
+- [🚀 Overview of VLA4AD](#-overview-of-vla4ad)  
+- [🏆 Awesome VLA4AD Papers](#-awesome-vla4ad-papers)  
+  - [1️⃣ Pre-VLA: VLM as Explainers](#1-pre-vla-vlm-as-explainers)  
+  - [2️⃣ Modular VLA4AD](#2-modular-vla4ad)  
+  - [3️⃣ End-to-End VLA4AD](#3-end-to-end-vla4ad)  
+  - [4️⃣ Reasoning-Augmented VLA4AD](#4-reasoning-augmented-vla4ad)  
+- [📊 Datasets & Benchmarks](#-datasets--benchmarks)  
+- [⚙️ Installation & Usage](#️-installation--usage)  
+- [🤝 Contributing](#-contributing)  
+- [⚖️ License](#️-license)  
+- [📜 Citation](#-citation)
+
+---
 ## 🔥 Motivation & Paradigm Shift
 
 Recent advances have moved us from classic end-to-end driving pipelines toward interpretable, language-aware agents. The figure below contrasts three paradigms:
@@ -31,21 +46,6 @@ A snapshot of the field’s evolution through four successive stages—from VLM-
 
 ---
 
-## 📚 Table of Contents
-
-- [🔥 Overview of VLA4AD](#-overview-of-vla4ad)  
-- [🏆 Awesome VLA4AD Papers](#-awesome-vla4ad-papers)  
-  - [1️⃣ Pre-VLA: VLM as Explainers](#1-pre-vla-vlm-as-explainers)  
-  - [2️⃣ Modular VLA4AD](#2-modular-vla4ad)  
-  - [3️⃣ End-to-End VLA4AD](#3-end-to-end-vla4ad)  
-  - [4️⃣ Reasoning-Augmented VLA4AD](#4-reasoning-augmented-vla4ad)  
-- [📊 Datasets & Benchmarks](#-datasets--benchmarks)  
-- [⚙️ Installation & Usage](#️-installation--usage)  
-- [🤝 Contributing](#-contributing)  
-- [⚖️ License](#️-license)  
-- [📜 Citation](#-citation)
-
----
 
 ## 🏆 Awesome VLA4AD Papers
 
