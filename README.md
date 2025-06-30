@@ -12,7 +12,7 @@ Welcome to **Awesome VLA4AD**—a curated, continuously updated collection of re
 
 An illustration of the VLA4AD paradigm, contrasting conventional end-to-end autonomous driving, vision-language models for AD, and full Vision–Language–Action systems:
 
-![Overview of VLA4AD](./figures/vla4ad_overview.png)  
+![Overview of VLA4AD](./figs/VLA4AD.pdf)  
 *Figure 1. Overview of Vision–Language–Action (VLA4AD) models for autonomous driving.*  
 
 ---
