@@ -1,4 +1,4 @@
-# Awesome VLA for Autonomous Driving 🚗💬
+# Awesome VLA for Autonomous Driving 🚗
 
 Welcome to Awesome LLM4AD—a curated, continuously updated collection of research papers and resources on Large Language Models for Autonomous Driving. This repository tracks the latest advances in LLM4AD, from perception and planning to end-to-end reasoning architectures, and is proudly maintained by SJTU-ReThinkLab.
 
