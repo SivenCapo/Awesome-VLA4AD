@@ -35,7 +35,7 @@ Refer to our survey for details:
 ## 📚 Table of Contents
 
 - [Awesome VLA4AD Papers](#awesome-vla4ad-papers)  
-  - [1️⃣ Pre-VLA: Explainers](#1-pre-vla-explainers)  
+  - [1️⃣ Pre-VLA: VLM as Explainers](#1-pre-vla-explainers)  
   - [2️⃣ Modular VLA](#2-modular-vla)  
   - [3️⃣ End-to-End VLA](#3-end-to-end-vla)  
   - [4️⃣ Reasoning-Centric VLA](#4-reasoning-centric-vla)  
@@ -49,14 +49,14 @@ Refer to our survey for details:
 
 ## 🏆 Awesome VLA4AD Papers
 
-### 1️⃣ Pre-VLA: Explainers
+### 1️⃣ Pre-VLA: VLM as Explainers
 | Model          | Year | Key Features                   | Link                                                             |
 | -------------- | ---- | ---------------------- | ---------------------------------------------------------------- |
 | DriveGPT-4     | 2023 | Scene Narration, QA    | https://arxiv.org/abs/2310.01412                                  |
 | TS-VLM         | 2025 | Text-guided Attention  | https://arxiv.org/abs/2505.12670                                  |
 | DynRsl-VLM     | 2025 | Adaptive Resolution    | https://arxiv.org/abs/2503.11265                                  |
 
-### 2️⃣ Modular VLA
+### 2️⃣ Modular VLA4AD
 | Model          | Year |  Key Features                      | Link                                                             |
 | -------------- | ---- | ---------------------- | ---------------------------------------------------------------- |
 | OpenDriveVLA   | 2025 | Language-guided Planning | https://arxiv.org/abs/2503.23463 / [Code](https://github.com/DriveVLA/OpenDriveVLA) |
@@ -65,7 +65,7 @@ Refer to our survey for details:
 | SafeAuto       | 2025 | Rule-based Safety      | https://arxiv.org/abs/2503.00211                                  |
 | RAG-Driver     | 2024 | Retrieval-Augmented   |https://arxiv.org/abs/2402.10828                     |
 
-### 3️⃣ End-to-End VLA
+### 3️⃣ End-to-End VLA4AD
 | Model          | Year |  Key Features                      | Link                                                             |
 | -------------- | ---- | ---------------------- | ---------------------------------------------------------------- |
 | EMMA           | 2024 | Detection + Planning   | https://arxiv.org/abs/2403.04593                                  |
@@ -74,7 +74,7 @@ Refer to our survey for details:
 | SimLingo       | 2025 | Action Dreaming        | https://arxiv.org/abs/2503.09594                                  |
 | DiffVLA        | 2025 | Sparse-Dense Diffusion | https://arxiv.org/abs/2505.19381                                 |
 
-### 4️⃣ Reasoning-Centric VLA
+### 4️⃣ Reasoning-Augmented VLA4AD
 | Model          | Year |  Key Features                     | Link                                                             |
 | -------------- | ---- | ---------------------- | ---------------------------------------------------------------- |
 | ORION          | 2025 | Memory + Rationales    | https://arxiv.org/abs/2503.19755                                 |
