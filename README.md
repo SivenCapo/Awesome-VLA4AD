@@ -1,49 +1,35 @@
 # Awesome VLA for Autonomous Driving 🚗
 
-Welcome to Awesome VLA4AD—a curated, continuously updated collection of research papers and resources on Vision–Language–Action models for Autonomous Driving (VLA4AD). This repository tracks the latest advances in VLA4AD, from explanatory perception modules to end-to-end reasoning and control architectures.
+Welcome to **Awesome VLA4AD**—a curated, continuously updated collection of research papers and resources on Vision–Language–Action models for Autonomous Driving (VLA4AD). This repository tracks the latest advances in VLA4AD, from explanatory perception modules to end-to-end reasoning and control architectures.
 
-⭐️ Follow & Star to stay up to date!
-
-🤝 Contributions welcome—if you know of new papers, datasets, or tools, please open an issue or submit a PR.
-
-📬 Questions or suggestions? Reach us at sicong.jiang@mail.mcgill.ca
-
-<!--<div align="center">
-  <a href="https://arxiv.org/abs/XXXX.XXXXX"><img src="https://img.shields.io/badge/arXiv-XXXX.XXXXX-orange.svg" alt="arXiv Badge" /></a>
-  <a href="https://github.com/YourOrg/Awesome-VLA-for-Autonomous-Driving/stargazers"><img src="https://img.shields.io/github/stars/YourOrg/Awesome-VLA-for-Autonomous-Driving" alt="Stars Badge"/></a>
-  <a href="https://github.com/YourOrg/Awesome-VLA-for-Autonomous-Driving/network/members"><img src="https://img.shields.io/github/forks/YourOrg/Awesome-VLA-for-Autonomous-Driving" alt="Forks Badge"/></a>
-  <a href="https://github.com/YourOrg/Awesome-VLA-for-Autonomous-Driving/issues"><img src="https://img.shields.io/github/issues/YourOrg/Awesome-VLA-for-Autonomous-Driving" alt="Issues Badge"/></a>
-  <a href="https://github.com/YourOrg/Awesome-VLA-for-Autonomous-Driving/blob/main/LICENSE"><img src="https://img.shields.io/github/license/YourOrg/Awesome-VLA-for-Autonomous-Driving" alt="License Badge"/></a>
-</div> -->
+⭐️ **Follow & Star** to stay up to date!  
+🤝 **Contributions welcome**—if you know of new papers, datasets, or tools, please open an issue or submit a PR.  
+📬 **Questions or suggestions?** Reach us at **sicong.jiang@mail.mcgill.ca**
 
 ---
 
-## 🔥 Overview
+## 🔥 Overview of VLA4AD
 
-This repository collects seminal papers, datasets, and tools for **Vision–Language–Action** (VLA) models in autonomous driving—a paradigm that fuses perception, language understanding, and control into a unified policy. We follow the four waves of VLA4AD progress:
+An illustration of the VLA4AD paradigm, contrasting conventional end-to-end autonomous driving, vision-language models for AD, and full Vision–Language–Action systems:
 
-1. **Pre-VLA**: Language as Explainer  
-2. **Modular VLA**: Language-driven Planning  
-3. **End-to-End VLA**: Unified Sensor → Action  
-4. **Reasoning-Centric VLA**: Chain-of-Thought & Memory  
-
-Refer to our survey for details:  
-> Sicong Jiang *et al.*, “A Survey on Vision–Language–Action Models for Autonomous Driving,” *arXiv:XXXX.XXXXX*, 2025.
+![Overview of VLA4AD](./figures/vla4ad_overview.png)  
+*Figure 1. Overview of Vision–Language–Action (VLA4AD) models for autonomous driving.*  
 
 ---
 
 ## 📚 Table of Contents
 
-- [Awesome VLA4AD Papers](#awesome-vla4ad-papers)  
-  - [1️⃣ Pre-VLA: VLM as Explainers](#1-pre-vla-explainers)  
-  - [2️⃣ Modular VLA](#2-modular-vla)  
-  - [3️⃣ End-to-End VLA](#3-end-to-end-vla)  
-  - [4️⃣ Reasoning-Centric VLA](#4-reasoning-centric-vla)  
-- [📊 Datasets & Benchmarks](#datasets--benchmarks)  
-- [⚙️ Installation & Usage](#installation--usage)  
-- [🤝 Contributing](#contributing)  
-- [⚖️ License](#license)  
-- [📜 Citation](#citation)
+- [🔥 Overview of VLA4AD](#-overview-of-vla4ad)  
+- [🏆 Awesome VLA4AD Papers](#-awesome-vla4ad-papers)  
+  - [1️⃣ Pre-VLA: VLM as Explainers](#1-pre-vla-vlm-as-explainers)  
+  - [2️⃣ Modular VLA4AD](#2-modular-vla4ad)  
+  - [3️⃣ End-to-End VLA4AD](#3-end-to-end-vla4ad)  
+  - [4️⃣ Reasoning-Augmented VLA4AD](#4-reasoning-augmented-vla4ad)  
+- [📊 Datasets & Benchmarks](#-datasets--benchmarks)  
+- [⚙️ Installation & Usage](#️-installation--usage)  
+- [🤝 Contributing](#-contributing)  
+- [⚖️ License](#️-license)  
+- [📜 Citation](#-citation)
 
 ---
 
