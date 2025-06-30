@@ -3,7 +3,9 @@
 Welcome to Awesome LLM4AD—a curated, continuously updated collection of research papers and resources on Large Language Models for Autonomous Driving. This repository tracks the latest advances in LLM4AD, from perception and planning to end-to-end reasoning architectures, and is proudly maintained by SJTU-ReThinkLab.
 
 ⭐️ Follow & Star to stay up to date!
+
 🤝 Contributions welcome—if you know of new papers, datasets, or tools, please open an issue or submit a PR.
+
 📬 Questions or suggestions? Reach us at sicong.jiang@mail.mcgill.ca
 
 <!--<div align="center">
