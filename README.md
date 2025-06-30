@@ -4,7 +4,7 @@ Welcome to **Awesome VLA4AD**—a curated, continuously updated collection of re
 
 ⭐️ **Follow & Star** to stay up to date!  
 🤝 **Contributions welcome**—if you know of new papers, datasets, or tools, please open an issue or submit a PR.  
-📬 **Questions or suggestions?** Reach us at **sicong.jiang@mail.mcgill.ca**
+📬 **Questions or suggestions?** Reach us at **sicong.jiang@mail.mcgill.ca**.
 
 ---
 
