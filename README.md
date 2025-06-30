@@ -1,4 +1,4 @@
-# Awesome VLA for Autonomous Driving 🚗
+# Awesome VLA Models for Autonomous Driving 🚗
 
 Welcome to **Awesome VLA4AD**—a curated, continuously updated collection of research papers and resources on Vision–Language–Action models for Autonomous Driving (VLA4AD). This repository tracks the latest advances in VLA4AD, from explanatory perception modules to end-to-end reasoning and control architectures.
 
