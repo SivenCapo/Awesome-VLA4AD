@@ -4,7 +4,7 @@ Welcome to Awesome LLM4AD—a curated, continuously updated collection of resear
 
 ⭐️ Follow & Star to stay up to date!
 🤝 Contributions welcome—if you know of new papers, datasets, or tools, please open an issue or submit a PR.
-📬 Questions or suggestions? Reach us at yangzhenjie@sjtu.edu.cn or jiaxiaosong@sjtu.edu.cn.
+📬 Questions or suggestions? Reach us at sicong.jiang@mail.mcgill.ca
 
 <!--<div align="center">
   <a href="https://arxiv.org/abs/XXXX.XXXXX"><img src="https://img.shields.io/badge/arXiv-XXXX.XXXXX-orange.svg" alt="arXiv Badge" /></a>
