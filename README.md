@@ -1,11 +1,5 @@
-# Awesome Vision-Language-Action Models for Autonmous Driving🚗
-<!--<div align="center">
-  <a href="https://arxiv.org/abs/XXXX.XXXXX"><img src="https://img.shields.io/badge/arXiv-XXXX.XXXXX-orange.svg" alt="arXiv Badge" /></a>
-  <a href="https://github.com/YourOrg/Awesome-VLA-for-Autonomous-Driving/stargazers"><img src="https://img.shields.io/github/stars/YourOrg/Awesome-VLA-for-Autonomous-Driving" alt="Stars Badge"/></a>
-  <a href="https://github.com/YourOrg/Awesome-VLA-for-Autonomous-Driving/network/members"><img src="https://img.shields.io/github/forks/YourOrg/Awesome-VLA-for-Autonomous-Driving" alt="Forks Badge"/></a>
-  <a href="https://github.com/YourOrg/Awesome-VLA-for-Autonomous-Driving/issues"><img src="https://img.shields.io/github/issues/YourOrg/Awesome-VLA-for-Autonomous-Driving" alt="Issues Badge"/></a>
-  <a href="https://github.com/YourOrg/Awesome-VLA-for-Autonomous-Driving/blob/main/LICENSE"><img src="https://img.shields.io/github/license/YourOrg/Awesome-VLA-for-Autonomous-Driving" alt="License Badge"/></a>
-</div> -->
+# Awesome Vision–Language–Action Models for Autonomous Driving 🚗
+
 Welcome to **Awesome VLA4AD**—a curated, continuously updated collection of research papers and resources on Vision–Language–Action models for Autonomous Driving (VLA4AD). This repository tracks the latest advances in VLA4AD, from explanatory perception modules to end-to-end reasoning and control architectures.
 
 ⭐️ **Follow & Star** to stay up to date!  
@@ -14,12 +8,26 @@ Welcome to **Awesome VLA4AD**—a curated, continuously updated collection of re
 
 ---
 
-## 🔥 Overview of VLA4AD
+## 🔥 Motivation & Paradigm Shift
+
+Recent advances have moved us from classic end-to-end driving pipelines toward interpretable, language-aware agents. The figure below contrasts three paradigms:
+
+![Driving Paradigms Comparison](./figs/Paradigm_Comparison.png)  
+*Figure 0. From (a) conventional end-to-end AD, to (b) vision-language models as explainers, to (c) full Vision–Language–Action systems.*
+
+---
+
+## 🚀 Overview of VLA4AD
 
 An illustration of the VLA4AD paradigm, contrasting conventional end-to-end autonomous driving, vision-language models for AD, and full Vision–Language–Action systems:
 
-![Overview of VLA4AD](/figs/Overview_VLA4AD.png)  
+![Overview of VLA4AD](./figs/Overview_VLA4AD.png)  
 *Figure 1. Overview of Vision–Language–Action (VLA4AD) models for autonomous driving.*  
+
+A snapshot of the field’s evolution through four successive stages—from VLM-as-explainer to augmented, reasoning-centric agents:
+
+![Progress of VLA Models for AD](./figs/Progress_VLA4AD.png)  
+*Figure 2. Progression of VLA4AD models: (1) VLMs as passive explainers; (2) Modular VLA with intermediate representations; (3) End-to-end VLA mapping sensors directly to actions; (4) Augmented VLA with long-horizon reasoning and tool use.*
 
 ---
 
