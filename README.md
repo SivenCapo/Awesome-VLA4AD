@@ -1,15 +1,18 @@
 # Awesome VLA for Autonomous Driving 🚗💬
 
-> A curated list of Vision–Language–Action (VLA) models, datasets, and resources for Autonomous Driving.  
-> Based on *A Survey on Vision–Language–Action Models for Autonomous Driving* (arXiv:…).
+Welcome to Awesome LLM4AD—a curated, continuously updated collection of research papers and resources on Large Language Models for Autonomous Driving. This repository tracks the latest advances in LLM4AD, from perception and planning to end-to-end reasoning architectures, and is proudly maintained by SJTU-ReThinkLab.
 
-<div align="center">
+⭐️ Follow & Star to stay up to date!
+🤝 Contributions welcome—if you know of new papers, datasets, or tools, please open an issue or submit a PR.
+📬 Questions or suggestions? Reach us at yangzhenjie@sjtu.edu.cn or jiaxiaosong@sjtu.edu.cn.
+
+<!--<div align="center">
   <a href="https://arxiv.org/abs/XXXX.XXXXX"><img src="https://img.shields.io/badge/arXiv-XXXX.XXXXX-orange.svg" alt="arXiv Badge" /></a>
   <a href="https://github.com/YourOrg/Awesome-VLA-for-Autonomous-Driving/stargazers"><img src="https://img.shields.io/github/stars/YourOrg/Awesome-VLA-for-Autonomous-Driving" alt="Stars Badge"/></a>
   <a href="https://github.com/YourOrg/Awesome-VLA-for-Autonomous-Driving/network/members"><img src="https://img.shields.io/github/forks/YourOrg/Awesome-VLA-for-Autonomous-Driving" alt="Forks Badge"/></a>
   <a href="https://github.com/YourOrg/Awesome-VLA-for-Autonomous-Driving/issues"><img src="https://img.shields.io/github/issues/YourOrg/Awesome-VLA-for-Autonomous-Driving" alt="Issues Badge"/></a>
   <a href="https://github.com/YourOrg/Awesome-VLA-for-Autonomous-Driving/blob/main/LICENSE"><img src="https://img.shields.io/github/license/YourOrg/Awesome-VLA-for-Autonomous-Driving" alt="License Badge"/></a>
-</div>
+</div> -->
 
 ---
 
