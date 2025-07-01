@@ -91,8 +91,8 @@ A snapshot of the field’s evolution through four successive stages—from VLM-
 | ---------------------- | ---- | -------------------------- | ------------------------- | ----------------------------------------- |
 | BDD100K / BDD-X        | 2018 | Video + Rationales         | Captioning, QA            | https://bdd-data.berkeley.edu/            |
 | nuScenes               | 2020 | Camera, LiDAR, Radar       | Detection, QA             | https://www.nuscenes.org/                 |
-| Bench2Drive            | 2024 | CARLA Simulator            | Closed-loop Driving       | https://github.com/OpenDriveLab/Bench2Drive |
-| Reason2Drive           | 2024 | Video–QA                   | CoT-Chain Consistency     | https://github.com/…/Reason2Drive         |
+| Bench2Drive            | 2024 | CARLA Simulator            | Closed-loop Driving       | [https://github.com/OpenDriveLab/Bench2Drive](https://github.com/Thinklab-SJTU/Bench2Drive) |
+| Reason2Drive           | 2024 | Video–QA                   | CoT-Chain Consistency     | [https://github.com/…/Reason2Drive ](https://github.com/fudan-zvg/Reason2Drive)        |
 | Impromptu-VLA Dataset  | 2025 | Video + QA + Traj          | Corner-Case Testing       |https://arxiv.org/abs/2505.23757|
 | NuInteract              | 2025 | Multi-view QA              | 3D QA                     |https://arxiv.org/html/2505.08725v1|
 | DriveAction            | 2025 | In-the-wild QA             | High-level Actions        |       https://arxiv.org/abs/2506.05667           |
