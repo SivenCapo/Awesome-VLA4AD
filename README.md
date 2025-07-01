@@ -1,4 +1,6 @@
 # Awesome Vision–Language–Action Models for Autonomous Driving 🚗
+[![arXiv](https://img.shields.io/badge/arXiv-2506.24044-B31B1B.svg?style=flat&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2506.24044) [![GitHub stars](https://img.shields.io/github/stars/JohnsonJiang1996/Awesome-VLA4AD?style=social)](https://github.com/JohnsonJiang1996/Awesome-VLA4AD/stargazers) [![GitHub forks](https://img.shields.io/github/forks/JohnsonJiang1996/Awesome-VLA4AD?style=social)](https://github.com/JohnsonJiang1996/Awesome-VLA4AD/network)
+
 
 Welcome to **Awesome VLA4AD**—a curated, continuously updated collection of research papers and resources on Vision–Language–Action models for Autonomous Driving (VLA4AD). This repository tracks the latest advances in VLA4AD, from explanatory perception modules to end-to-end reasoning and control architectures.
 
