@@ -127,7 +127,7 @@ If this project is useful in your work, we'd appreciate a star 🌟 and a citati
 ```
 @article{jiang2025vla4ad,
     title={A Survey on Vision-Language-Action Models for Autonomous Driving}, 
-    author={Sicong Jiang and Zilin Huang and Kangan Qian and Ziang Luo and Tianze Zhu and Yang Zhong and Yihong Tang and Menglin Kong and Yunlong Wang and Siwen Jiao and Hao Ye and Zihao Sheng and Xin Zhao and Tuopu Wen and Zheng Fu and Sikai Chen and Kun Jiang and Diange Yang and Seongjin Choi and Lijun Sun},
+    author={Jiang, Sicong and Huang, Zilin and Qian, Kangan and Luo, Ziang and Zhu, Tianze and Zhong, Yang and Tang, Yihong and Kong, Menglin and Wang, Yunlong and Jiao, Siwen and others},
     journal={arXiv preprint arXiv:2506.24044},
     year={2025}
 }
