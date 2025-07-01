@@ -30,7 +30,7 @@ Our latest survey is out [here](https://arxiv.org/abs/2506.24044)! We invite you
 Recent advances have moved us from classic end-to-end driving pipelines toward interpretable, language-aware agents. The figure below contrasts three paradigms:
 
 ![Driving Paradigms Comparison](./figs/Paradigm_Comparison.png)  
-*Figure 0. From (a) conventional end-to-end AD, to (b) vision-language models as explainers, to (c) full Vision–Language–Action systems.*
+*Figure 1. From (a) conventional end-to-end AD, to (b) vision-language models as explainers, to (c) full Vision–Language–Action systems.*
 
 ---
 
@@ -39,12 +39,12 @@ Recent advances have moved us from classic end-to-end driving pipelines toward i
 An illustration of the VLA4AD paradigm, contrasting conventional end-to-end autonomous driving, vision-language models for AD, and full Vision–Language–Action systems:
 
 ![Overview of VLA4AD](./figs/Overview_VLA4AD_New.png)  
-*Figure 1. Overview of Vision–Language–Action (VLA4AD) models for autonomous driving.*  
+*Figure 2. Overview of Vision–Language–Action (VLA4AD) models for autonomous driving.*  
 
 A snapshot of the field’s evolution through four successive stages—from VLM-as-explainer to augmented, reasoning-centric agents:
 
 ![Progress of VLA Models for AD](./figs/Progress_VLA4AD.png)  
-*Figure 2. Progression of VLA4AD models: (1) VLMs as passive explainers; (2) Modular VLA with intermediate representations; (3) End-to-end VLA mapping sensors directly to actions; (4) Augmented VLA with long-horizon reasoning and tool use.*
+*Figure 3. Progression of VLA4AD models: (1) VLMs as passive explainers; (2) Modular VLA with intermediate representations; (3) End-to-end VLA mapping sensors directly to actions; (4) Augmented VLA with long-horizon reasoning and tool use.*
 
 ---
 
