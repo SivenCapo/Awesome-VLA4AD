@@ -30,7 +30,7 @@ Our latest survey is out [here](https://arxiv.org/abs/2506.24044)! We invite you
 Recent advances have moved us from classic end-to-end driving pipelines toward interpretable, language-aware agents. The figure below contrasts three paradigms:
 
 ![Driving Paradigms Comparison](./figs/Paradigm_Comparison.png)  
-*Figure 1. From (a) conventional end-to-end AD, to (b) vision-language models as explainers, to (c) full Vision–Language–Action systems.*
+*Figure 1. (a) conventional end-to-end AD, (b) vision-language models as explainers, (c) full Vision–Language–Action systems.*
 
 ---
 
