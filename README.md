@@ -77,7 +77,7 @@ A snapshot of the field’s evolution through four successive stages—from VLM-
 | DriveMoE       | 2025 | Expert Routing         | https://arxiv.org/abs/2505.16278 / [Code](https://github.com/Thinklab-SJTU/DriveMoE) |
 | LangCoop       | 2025 | V2V Coordination       | https://arxiv.org/abs/2504.13406 / [Code](https://github.com/taco-group/LangCoop)  |
 | SafeAuto       | 2025 | Rule-based Safety      | https://arxiv.org/abs/2503.00211 / [Code](https://github.com/AI-secure/SafeAuto)  |
-| ReCogDrive     | 2025 | Diffusion + RL      |https://arxiv.org/abs/2506.08052 / [Code](https://github.com/AI-secure/SafeAuto)  |
+| ReCogDrive     | 2025 | Diffusion + RL      |https://arxiv.org/abs/2506.08052 / [Code](https://github.com/xiaomi-research/recogdrive/)  |
 
 ### 3️⃣ End-to-End VLA4AD
 | Model          | Year |  Key Features                      | Link                                                             |
