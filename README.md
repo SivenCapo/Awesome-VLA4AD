@@ -115,13 +115,10 @@ cd Awesome-VLA4AD
 
 If this project is useful in your work, we'd appreciate a star 🌟 and a citation of our paper.
 ```
-@misc{jiang2025surveyvisionlanguageactionmodelsautonomous,
-      title={A Survey on Vision-Language-Action Models for Autonomous Driving}, 
-      author={Sicong Jiang and Zilin Huang and Kangan Qian and Ziang Luo and Tianze Zhu and Yang Zhong and Yihong Tang and Menglin Kong and Yunlong Wang and Siwen Jiao and Hao Ye and Zihao Sheng and Xin Zhao and Tuopu Wen and Zheng Fu and Sikai Chen and Kun Jiang and Diange Yang and Seongjin Choi and Lijun Sun},
-      year={2025},
-      eprint={2506.24044},
-      archivePrefix={arXiv},
-      primaryClass={cs.CV},
-      url={https://arxiv.org/abs/2506.24044}, 
+@article{jiang2025vla4ad,
+    title={A Survey on Vision-Language-Action Models for Autonomous Driving}, 
+    author={Sicong Jiang and Zilin Huang and Kangan Qian and Ziang Luo and Tianze Zhu and Yang Zhong and Yihong Tang and Menglin Kong and Yunlong Wang and Siwen Jiao and Hao Ye and Zihao Sheng and Xin Zhao and Tuopu Wen and Zheng Fu and Sikai Chen and Kun Jiang and Diange Yang and Seongjin Choi and Lijun Sun},
+    journal={arXiv preprint arXiv:2506.24044},
+    year={2025}
 }
 ```
