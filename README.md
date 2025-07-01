@@ -95,7 +95,7 @@ A snapshot of the field’s evolution through four successive stages—from VLM-
 | Reason2Drive           | 2024 | Video–QA                   | CoT-Chain Consistency     | [https://github.com/…/Reason2Drive ](https://github.com/fudan-zvg/Reason2Drive)        |
 | Impromptu-VLA Dataset  | 2025 | Video + QA + Traj          | Corner-Case Testing       |[https://arxiv.org/abs/2505.23757](https://github.com/ahydchh/Impromptu-VLA)|
 | NuInteract              | 2025 | Multi-view QA              | 3D QA                     |https://arxiv.org/html/2505.08725v1|
-| DriveAction            | 2025 | In-the-wild QA             | High-level Actions        |       [https://arxiv.org/abs/2506.05667 ](https://huggingface.co/datasets/LiAuto-DriveAction/drive-action)          |
+| DriveAction            | 2025 | In-the-wild QA             | High-level Actions        |       [HuggingFace](https://huggingface.co/datasets/LiAuto-DriveAction/drive-action)          |
 
 ---
 
