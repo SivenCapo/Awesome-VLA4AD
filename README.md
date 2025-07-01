@@ -29,7 +29,16 @@ Our latest survey is out [here](https://arxiv.org/abs/2506.24044)! We invite you
 ---
 ## 🔥 Motivation & Paradigm Shift
 
-Recent advances have moved us from classic end-to-end driving pipelines toward interpretable, language-aware agents. The figure below contrasts three paradigms:
+The development of autonomous driving has progressed from modular pipelines to fully integrated systems. This survey summarizes the latest advances into three core paradigms:
+
+* **End-to-End AD:** Direct sensor-to-control mapping—efficient but opaque and weak on rare scenarios.  
+  * **Flow:** Sensors → Network → Actions
+
+* **VLMs for AD:** Adds language reasoning—boosts explainability but doesn’t drive the vehicle.  
+  * **Flow:** Sensors → VLM → Answers
+
+* **VLA for AD:** Unifies vision, language, and control in one policy—understands instructions, reasons, acts, and explains.  
+  * **Flow:** Sensors → Multimodal Encoder → LLM/VLM → Decoder → Actions
 
 ![Driving Paradigms Comparison](./figs/Paradigm_Comparison.png)  
 *Figure 1. (a) conventional end-to-end AD, (b) vision-language models as explainers, (c) full Vision–Language–Action systems.*
