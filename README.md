@@ -77,14 +77,14 @@ A snapshot of the field’s evolution through four successive stages—from VLM-
 | DriveMoE       | 2025 | Expert Routing         | https://arxiv.org/abs/2505.16278 / [Code](https://github.com/Thinklab-SJTU/DriveMoE) |
 | LangCoop       | 2025 | V2V Coordination       | https://arxiv.org/abs/2504.13406 / [Code](https://github.com/taco-group/LangCoop)  |
 | SafeAuto       | 2025 | Rule-based Safety      | https://arxiv.org/abs/2503.00211 / [Code](https://github.com/AI-secure/SafeAuto)  |
-| ReCogDrive       | 2025 | Diffusion + RL      |https://arxiv.org/abs/2506.08052 / [Code](https://github.com/AI-secure/SafeAuto)  |
+| ReCogDrive     | 2025 | Diffusion + RL      |https://arxiv.org/abs/2506.08052 / [Code](https://github.com/AI-secure/SafeAuto)  |
 
 ### 3️⃣ End-to-End VLA4AD
 | Model          | Year |  Key Features                      | Link                                                             |
 | -------------- | ---- | ---------------------- | ---------------------------------------------------------------- |
+| ADriver-I      | 2023 | Diffusion-based World Model | https://arxiv.org/abs/2311.13549                                  |
 | EMMA           | 2024 | Detection + Planning   | https://arxiv.org/abs/2403.04593 / [Code](https://github.com/taco-group/OpenEMMA)  |
 | CoVLA-Agent    | 2024 | Caption + Trajectory   | https://arxiv.org/abs/2408.10845 / [Code](https://turingmotors.github.io/covla-ad/)     |
-| ADriver-I      | 2023 | Diffusion-based World Model | https://arxiv.org/abs/2311.13549                                  |
 | SimLingo       | 2025 | Action Dreaming        | https://arxiv.org/abs/2503.09594 / [Code](https://github.com/RenzKa/simlingo) |
 | DiffVLA        | 2025 | Sparse-Dense Diffusion | https://arxiv.org/abs/2505.19381                                 |
 
