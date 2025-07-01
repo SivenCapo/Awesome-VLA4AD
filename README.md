@@ -2,6 +2,8 @@
 
 Welcome to **Awesome VLA4AD**—a curated, continuously updated collection of research papers and resources on Vision–Language–Action models for Autonomous Driving (VLA4AD). This repository tracks the latest advances in VLA4AD, from explanatory perception modules to end-to-end reasoning and control architectures.
 
+Our latest survey is out [here](https://arxiv.org/abs/2506.24044)! We invite your feedback and discussion.
+
 ⭐️ **Follow & Star** to stay up to date!  
 🤝 **Contributions welcome**—if you know of new papers, datasets, or tools, please open an issue or submit a PR.  
 📬 **Questions or suggestions?** Reach us at **sicong.jiang@mail.mcgill.ca** or **qka23@mails.tsinghua.edu.cn**.
@@ -103,3 +105,18 @@ A snapshot of the field’s evolution through four successive stages—from VLM-
 git clone https://github.com/JohnsonJiang1996/Awesome-VLA4AD.git
 cd Awesome-VLA4AD
 # Browse papers, datasets & code samples in each folder
+```
+
+---
+
+## 📜 Citation
+
+If this project is useful in your work, we'd appreciate a star 🌟 and a citation of our paper.
+```
+@article{jiang2025surveyvla,
+  title={A Survey on Vision-Language-Action Models for Autonomous Driving}, 
+  author={Jiang, Sicong and Huang, Zilin and Qian, Kangan and Luo, Ziang and Zhu, Tianze and Zhong, Yang and Tang, Yihong and Kong, Menglin and Wang, Yunlong and Jiao, Siwen and others},
+  journal={https://arxiv.org/abs/2506.24044}, 
+  year={2025}
+}
+```
