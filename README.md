@@ -54,34 +54,34 @@ A snapshot of the field’s evolution through four successive stages—from VLM-
 ### 1️⃣ Pre-VLA: VLM as Explainers
 | Model          | Year | Key Features                   | Link                                                             |
 | -------------- | ---- | ---------------------- | ---------------------------------------------------------------- |
-| DriveGPT-4     | 2023 | Scene Narration, QA    | https://arxiv.org/abs/2310.01412                                  |
-| TS-VLM         | 2025 | Text-guided Attention  | https://arxiv.org/abs/2505.12670                                  |
+| DriveGPT-4     | 2023 | Scene Narration, QA    | https://arxiv.org/abs/2310.01412 / [Code](https://tonyxuqaq.github.io/projects/DriveGPT4/)|
+| TS-VLM         | 2025 | Text-guided Attention  | https://arxiv.org/abs/2505.12670 / [Code](https://github.com/AiX-Lab-UWO/TS-VLM)|
 | DynRsl-VLM     | 2025 | Adaptive Resolution    | https://arxiv.org/abs/2503.11265                                  |
 
 ### 2️⃣ Modular VLA4AD
 | Model          | Year |  Key Features                      | Link                                                             |
 | -------------- | ---- | ---------------------- | ---------------------------------------------------------------- |
 | OpenDriveVLA   | 2025 | Language-guided Planning | https://arxiv.org/abs/2503.23463 / [Code](https://github.com/DriveVLA/OpenDriveVLA) |
-| DriveMoE       | 2025 | Expert Routing         | https://arxiv.org/abs/2505.16278                                 |
-| LangCoop       | 2025 | V2V Coordination       | https://arxiv.org/abs/2504.13406                                  |
-| SafeAuto       | 2025 | Rule-based Safety      | https://arxiv.org/abs/2503.00211                                  |
-| RAG-Driver     | 2024 | Retrieval-Augmented   |https://arxiv.org/abs/2402.10828                     |
+| DriveMoE       | 2025 | Expert Routing         | https://arxiv.org/abs/2505.16278 / [Code](https://github.com/Thinklab-SJTU/DriveMoE) |
+| LangCoop       | 2025 | V2V Coordination       | https://arxiv.org/abs/2504.13406 / [Code](https://github.com/taco-group/LangCoop)  |
+| SafeAuto       | 2025 | Rule-based Safety      | https://arxiv.org/abs/2503.00211 / [Code](https://github.com/AI-secure/SafeAuto)  |
+| RAG-Driver     | 2024 | Retrieval-Augmented   |https://arxiv.org/abs/2402.10828 / [Code](https://github.com/YuanJianhao508/RAG-Driver)|
 
 ### 3️⃣ End-to-End VLA4AD
 | Model          | Year |  Key Features                      | Link                                                             |
 | -------------- | ---- | ---------------------- | ---------------------------------------------------------------- |
-| EMMA           | 2024 | Detection + Planning   | https://arxiv.org/abs/2403.04593                                  |
-| CoVLA-Agent    | 2024 | Caption + Trajectory   | https://arxiv.org/abs/2408.10845                                  |
+| EMMA           | 2024 | Detection + Planning   | https://arxiv.org/abs/2403.04593 / [Code](https://github.com/taco-group/OpenEMMA)  |
+| CoVLA-Agent    | 2024 | Caption + Trajectory   | https://arxiv.org/abs/2408.10845 / [Code](https://turingmotors.github.io/covla-ad/)     |
 | ADriver-I      | 2023 | Diffusion-based World Model | https://arxiv.org/abs/2311.13549                                  |
-| SimLingo       | 2025 | Action Dreaming        | https://arxiv.org/abs/2503.09594                                  |
+| SimLingo       | 2025 | Action Dreaming        | https://arxiv.org/abs/2503.09594 / [Code](https://github.com/RenzKa/simlingo) |
 | DiffVLA        | 2025 | Sparse-Dense Diffusion | https://arxiv.org/abs/2505.19381                                 |
 
 ### 4️⃣ Reasoning-Augmented VLA4AD
 | Model          | Year |  Key Features                     | Link                                                             |
 | -------------- | ---- | ---------------------- | ---------------------------------------------------------------- |
-| ORION          | 2025 | Memory + Rationales    | https://arxiv.org/abs/2503.19755                                 |
-| Impromptu-VLA  | 2025 | CoT-Aligned Planning   | https://arxiv.org/abs/2505.23757                                  |
-| AutoVLA        | 2025 | Drive Tokens + CoT     | https://arxiv.org/abs/2506.13757                                  |
+| ORION          | 2025 | Memory + Rationales    | https://arxiv.org/abs/2503.19755 / [Code](https://xiaomi-mlab.github.io/Orion/)              |
+| Impromptu-VLA  | 2025 | CoT-Aligned Planning   | https://arxiv.org/abs/2505.23757 / [Code](https://github.com/ahydchh/Impromptu-VLA)           |
+| AutoVLA        | 2025 | Drive Tokens + CoT     | https://arxiv.org/abs/2506.13757 / [Code](https://github.com/ucla-mobility/AutoVLA)           |
 
 ---
 
