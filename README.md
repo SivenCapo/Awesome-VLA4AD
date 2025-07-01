@@ -47,10 +47,10 @@ The development of autonomous driving has progressed from modular pipelines to f
 
 ## 🚀 Overview of VLA4AD
 
-An illustration of the VLA4AD paradigm, contrasting conventional end-to-end autonomous driving, vision-language models for AD, and full Vision–Language–Action systems:
+A typical VLA4AD model follows an “Input–Process–Output” flow, unifying environment perception, instruction understanding, and vehicle control.
 
 ![Overview of VLA4AD](./figs/Overview_VLA4AD_New.png)  
-*Figure 2. Overview of Vision–Language–Action (VLA4AD) models for autonomous driving.*  
+*Figure 2. Overview of VLA4AD, integrating vision, language, and action modules.*  
 
 A snapshot of the field’s evolution through four successive stages—from VLM-as-explainer to augmented, reasoning-centric agents:
 
