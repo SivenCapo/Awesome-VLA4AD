@@ -8,7 +8,7 @@ Our latest survey is out [here](https://arxiv.org/abs/2506.24044)! We invite you
 
 ⭐️ **Follow & Star** to stay up to date!  
 🤝 **Contributions welcome**—if you know of new papers, datasets, or tools, please open an issue or submit a PR.  
-📬 **Questions or suggestions?** Reach us at **sicong.jiang@mail.mcgill.ca** or **qka23@mails.tsinghua.edu.cn**, welcome to talk with us!
+📬 **Questions or suggestions?** Reach us at **sicong.jiang@mail.mcgill.ca** or **qka23@mails.tsinghua.edu.cn**.
 
 ---
 
