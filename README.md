@@ -93,6 +93,7 @@ A snapshot of the field’s evolution through four successive stages—from VLM-
 | -------------- | ---- | ---------------------- | ---------------------------------------------------------------- |
 | ORION          | 2025 | Memory + Rationales    | https://arxiv.org/abs/2503.19755 / [Code](https://xiaomi-mlab.github.io/Orion/)              |
 | Impromptu-VLA  | 2025 | CoT-Aligned Planning   | https://arxiv.org/abs/2505.23757 / [Code](https://github.com/ahydchh/Impromptu-VLA)           |
+| FSDrive       | 2025 | Visual Reasoning     | https://arxiv.org/abs/2505.13685 / [Code](https://github.com/MIV-XJTU/FSDrive)           |
 | AutoVLA        | 2025 | Drive Tokens + CoT     | https://arxiv.org/abs/2506.13757 / [Code](https://github.com/ucla-mobility/AutoVLA)           |
 
 ---
